@@ -12,3 +12,4 @@ Proficient in molecular biology techniques, R programming, and skilled in multip
 
 ![1](https://github.com/user-attachments/assets/52dca7d7-cdc9-4da7-9fb3-eef810cfb02f)
 
+here is a link to [Gabor Szabato home page](https://szabgab.com/)
