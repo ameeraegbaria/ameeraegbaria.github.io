@@ -1,4 +1,4 @@
-# ameeraegbaria.github.io
+# ameeraegbaria
 Hi, my name is Ameera Egbaria. I am a dedicated Ph.D. student at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/), specializing in Immunology and Regenerative Biology under the guidance of [Prof. Igor Ulitsky](https://www.weizmann.ac.il/dept/irb/igor-ulitsky/).
 
 My current research investigates the molecular mechanisms of RNA export factors, bridging knowledge from the nucleus to the cytoplasm to enhance understanding in this complex field.
